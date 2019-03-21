@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.eocencle.template.dao.DemoMapper">
+  <resultMap id="BaseResultMap" type="com.eocencle.template.entity.DemoEntity">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="domain" jdbcType="VARCHAR" property="domain" />
+    <result column="title" jdbcType="VARCHAR" property="title" />
+    <result column="link" jdbcType="VARCHAR" property="link" />
+    <result column="createdate" jdbcType="TIMESTAMP" property="createdate" />
+    <result column="author" jdbcType="VARCHAR" property="author" />
+    <result column="zddz" jdbcType="VARCHAR" property="zddz" />
+    <result column="zwdz" jdbcType="VARCHAR" property="zwdz" />
+    <result column="zfm" jdbcType="VARCHAR" property="zfm" />
+    <result column="zzs" jdbcType="INTEGER" property="zzs" />
+    <result column="hfs" jdbcType="INTEGER" property="hfs" />
+    <result column="djl" jdbcType="INTEGER" property="djl" />
+    <result column="sfljxx" jdbcType="VARCHAR" property="sfljxx" />
+    <result column="piclink" jdbcType="LONGVARCHAR" property="piclink" />
+    <result column="content" jdbcType="LONGVARCHAR" property="content" />
+  </resultMap>
+</mapper>
