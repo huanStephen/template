@@ -1,6 +1,6 @@
-package com.eocencle.template.service;
+package org.eocencle.template.service;
 
-import com.eocencle.template.entity.DemoEntity;
+import org.eocencle.template.entity.DemoEntity;
 
 import java.util.List;
 

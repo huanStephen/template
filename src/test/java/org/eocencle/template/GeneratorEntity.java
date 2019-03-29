@@ -1,4 +1,4 @@
-package com.eocencle.template;
+package org.eocencle.template;
 
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;

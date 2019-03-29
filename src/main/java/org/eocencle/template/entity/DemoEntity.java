@@ -1,4 +1,4 @@
-package com.eocencle.template.entity;
+package org.eocencle.template.entity;
 
 import java.util.Date;
 import javax.persistence.*;

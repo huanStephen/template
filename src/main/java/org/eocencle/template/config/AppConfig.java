@@ -1,4 +1,4 @@
-package com.eocencle.template.config;
+package org.eocencle.template.config;
 
 import org.springframework.beans.factory.annotation.Configurable;
 

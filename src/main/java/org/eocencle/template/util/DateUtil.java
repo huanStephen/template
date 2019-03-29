@@ -1,4 +1,4 @@
-package com.eocencle.template.util;
+package org.eocencle.template.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

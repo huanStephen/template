@@ -1,8 +1,8 @@
-package com.eocencle.template.controller;
+package org.eocencle.template.controller;
 
-import com.eocencle.template.vo.Result;
-import com.eocencle.template.entity.DemoEntity;
-import com.eocencle.template.service.IDemoService;
+import org.eocencle.template.vo.Result;
+import org.eocencle.template.entity.DemoEntity;
+import org.eocencle.template.service.IDemoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;

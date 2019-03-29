@@ -1,6 +1,6 @@
-package com.eocencle.template.dao;
+package org.eocencle.template.dao;
 
-import com.eocencle.template.entity.DemoEntity;
+import org.eocencle.template.entity.DemoEntity;
 import tk.mybatis.mapper.common.Mapper;
 
 public interface DemoMapper extends Mapper<DemoEntity> {

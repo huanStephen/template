@@ -1,4 +1,4 @@
-package com.eocencle.template.controller;
+package org.eocencle.template.controller;
 
 import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.stereotype.Controller;

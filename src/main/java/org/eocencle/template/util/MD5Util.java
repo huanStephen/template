@@ -1,4 +1,4 @@
-package com.eocencle.template.util;
+package org.eocencle.template.util;
 
 /**
  * Created by LiChao on 2018/11/9

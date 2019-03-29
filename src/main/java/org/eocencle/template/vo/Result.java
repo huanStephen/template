@@ -1,4 +1,4 @@
-package com.eocencle.template.vo;
+package org.eocencle.template.vo;
 
 /**
  * @Auther: shizh26250

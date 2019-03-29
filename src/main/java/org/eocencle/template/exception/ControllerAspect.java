@@ -1,6 +1,6 @@
-package com.eocencle.template.exception;
+package org.eocencle.template.exception;
 
-import com.eocencle.template.vo.Result;
+import org.eocencle.template.vo.Result;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;

@@ -1,8 +1,8 @@
-package com.eocencle.template.service.impl;
+package org.eocencle.template.service.impl;
 
-import com.eocencle.template.dao.DemoMapper;
-import com.eocencle.template.entity.DemoEntity;
-import com.eocencle.template.service.IDemoService;
+import org.eocencle.template.dao.DemoMapper;
+import org.eocencle.template.entity.DemoEntity;
+import org.eocencle.template.service.IDemoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
